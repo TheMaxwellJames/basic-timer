@@ -1,0 +1,22 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background: url(cute%20bg.png);
+
+}
+
+.container {
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+
+    border: 5px solid purple;
+    border-radius: 20px;
+    padding: 5;
+    box-shadow: 0px 0px 10px 5px;
+}
